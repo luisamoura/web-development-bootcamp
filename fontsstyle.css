@@ -1,0 +1,34 @@
+
+h1 { 
+	font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+p { 
+	font-family: 'Indie Flower', cursive
+}
+
+h1 {
+font-size: 60px;
+}
+
+
+p {
+font-size: 40px;
+font-weight: bold;
+line-height: 1.5;
+text-decoration: underline;
+text-decoration: line-through;
+
+}
+
+span {
+font-size: 2.0em;
+}
+
+body {
+text-align: center;
+}
+
+
+
+
